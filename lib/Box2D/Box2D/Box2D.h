@@ -45,7 +45,6 @@ For discussion please visit http://box2d.org/forum
 #include "Box2D/Collision/b2DynamicTree.h"
 #include "Box2D/Collision/b2TimeOfImpact.h"
 
-#include "Box2D/Dynamics/b2Body.h"
 #include "Box2D/Dynamics/b2Fixture.h"
 #include "Box2D/Dynamics/b2WorldCallbacks.h"
 #include "Box2D/Dynamics/b2TimeStep.h"
